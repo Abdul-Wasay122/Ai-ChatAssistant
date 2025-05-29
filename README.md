@@ -42,8 +42,8 @@ A modern, responsive AI chatbot built using **React**, **TypeScript**, **Vite**,
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/ai-chatbot-deepseek.git
-cd ai-chatbot-deepseek
+[git clone https://github.com/your-username/ai-chatbot-deepseek.git
+](https://github.com/Abdul-Wasay122/Ai-ChatAssistant.git)cd ai-chatbot-deepseek
 
 # Install dependencies
 npm install
